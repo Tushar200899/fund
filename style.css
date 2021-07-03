@@ -1,0 +1,158 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+}
+.br{
+    width: 100%;
+    float: left;
+    background-color: #9b6e26;
+}
+.br button{
+    color: #fff;
+    font-size: large;
+    font-weight: 800;
+    float: right;
+    background-color: grey;
+    border-radius: 3px;
+    padding: 6px 10px 6px 10px;
+}
+.main{
+    float: left;
+    width: 100%;
+    position: relative;
+    background-image: url('https://mk0timesnextw7n7qiu0.kinstacdn.com/wp-content/uploads/2020/09/JAGOFOUNDATION-768x509-1.jpg') ;
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat ;
+}
+.intro{
+    margin-top: 60%;
+    margin-bottom: 30%;
+    color: #fff;
+    font-size: large;
+    font-weight: 750;
+}
+.intro h1{
+    font-weight: bolder;
+}
+.intro button{
+    background-color: #9b6e26;
+    border-color:#9b6e26;
+    color: #fff;
+    font-weight: 700;
+    margin-top: 5%;
+}
+.main1 {
+    float: left;
+    width: 100%;
+    background-color: rgba(0,0,0,0.7);
+    color: g#9b6e26;
+}
+.bt button{
+    text-align: center;
+    color: #fff;
+    font-size: large;
+    font-weight: 800;
+    float: left;
+    background-color:#9b6e26;
+    border-radius: 3px;
+    padding: 6px 10px 6px 10px;
+    margin-top: 12%;
+}
+.img1{
+    height: 100px;
+    position: relative;
+    background-image: url('https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2hhcml0eXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img2{
+    background-image: url('https://images.unsplash.com/photo-1504159506876-f8338247a14a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Y2hhcml0eXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80');
+    height: 100px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img3{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqFWplgHhaY7M-IPuvSBemWfNKAl50PCLCNQ&usqp=CAU');
+    height: 100px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img4{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZJBdCf18pTUSFQp9MgGPSCmB4a6PfsVdpsA&usqp=CAU');
+    height: 100px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box2{
+    margin-top: 20%;
+    margin-bottom: 20%;
+    background-color: black;
+    cursor: pointer;
+    color: white;
+    height: 38rem;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 15px;
+}
+.box2 button{
+    margin-bottom: 2px;
+    background-color: #9b6e26;
+    border-color:#9b6e26;
+    color: #fff;
+    font-weight: 700;
+}
+button:hover{
+    background-color: #F92727;
+    border-radius: 15px;
+}
+.box2:hover{
+    transform: scale(1.15);
+    border-radius: 20px ;
+}
+.how{
+    position: relative;
+    float: left;
+    width: 100%;
+    color: black;
+    background-image: url('https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2hhcml0eXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80');
+    background-size: cover;
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.how h2{
+    margin-top: 3%;
+    text-align: center;
+    font-weight: bolder;
+    font-size:50px ;
+}
+.src{
+    margin-top: 2%;
+    margin-bottom: 4%;
+    height: 20rem;
+    padding: 4%;
+    background-color: #9b6e26;
+    border-radius: 14px;
+    overflow: hidden;
+}
+.src:hover{
+    transform: scale(1.1);
+}
+.src i{
+    font-size: 34px;
+    padding-left: 40%;
+}
+.src img{
+    font-size: 34px;
+    padding-left: 40%;
+}
